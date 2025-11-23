@@ -9,7 +9,7 @@
 ├── 📄 [.gitignore](.gitignore) — исключения для Git  
 ├── 📄 [requirements.txt](requirements.txt) — зависимости  
 ├── 📄 [README.md](README.md) — инструкция по запуску  
-├── 📄 [main.py](main.py) — точка входа бота  
+├── 📄 [bot.py](bot.py) — точка входа бота  
 │  
 ├── 📁 [core/](core/)  
 │   ├── 📄 [__init__.py](core/__init__.py)  
