@@ -1,0 +1,5 @@
+{
+  "ping_response": "Pong! 🎯",
+  "language_set": "Language has been set to English.",
+  "unknown_language": "Unknown language. Available: {langs}."
+}

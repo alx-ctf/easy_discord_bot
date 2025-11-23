@@ -1,10 +1,6 @@
 # secrets 
 .env
-config.py
-
+__pycache__/
+*.pyc
 venv/
-env/
-.venv/
-
-.idea/
-.vscode/
+data/
